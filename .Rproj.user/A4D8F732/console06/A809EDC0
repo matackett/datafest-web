@@ -1,0 +1,1043 @@
+
+logos/ssri.png
+media/
+media/index.html
+schedule/
+schedule/index.html
+signup/
+signup/index.html
+sponsors/
+sponsors/index.html
+sponsorship/
+sponsorship/index.html
+tags/
+tags/index.xml
+workshops/
+workshops/index.html
+
+sent 451607 bytes  received 908 bytes  60335.33 bytes/sec
+total size is 894497  speedup is 1.98
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+./
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/
+archives/index.xml
+categories/
+categories/index.xml
+coc/
+coc/index.html
+faq/
+faq/index.html
+logos/
+logos/dss.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/
+media/index.html
+schedule/
+schedule/index.html
+signup/
+signup/index.html
+sponsors/
+sponsors/index.html
+sponsorship/
+sponsorship/index.html
+tags/
+tags/index.xml
+workshops/
+workshops/index.html
+
+sent 227993 bytes  received 4274 bytes  30968.93 bytes/sec
+total size is 1120699  speedup is 4.83
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ ls -la
+total 504
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 16:12 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 16:12 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-------@  1 mine  staff  226202 Feb 25 13:51 background.jpg
+-rwxr-xr-x@  1 mine  staff    2320 Feb 25 16:07 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Feb 25 16:12 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ [KMatte:df-web-blogdown mine$ [KMatte:df-web-blogdown mine$ ls -la
+total 504
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 16:12 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 16:12 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-------@  1 mine  staff  226202 Feb 25 13:51 background.jpg
+-rwxr-xr-x@  1 mine  staff    2320 Feb 25 16:07 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Feb 25 16:12 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a+g[Kh background.jpg
+chmod: Invalid file mode: a+h
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a+h background.jpg[1P background.jpge background.jpg
+chmod: Invalid file mode: a+e
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a+e background.jpg[C[1P background.jpgr background.jpg
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a+r background.jpge[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -la[K
+total 504
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 16:12 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 16:12 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-r--r--@  1 mine  staff  226202 Feb 25 13:51 background.jpg
+-rwxr-xr-x@  1 mine  staff    2320 Feb 25 16:07 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Feb 25 16:12 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ ls -lachmod a+r background.jpge[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -la[Kmake push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+
+sent 1184 bytes  received 2032 bytes  428.80 bytes/sec
+total size is 1120699  speedup is 348.48
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+./
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/dss.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 5353 bytes  received 6146 bytes  1769.08 bytes/sec
+total size is 1120969  speedup is 97.48
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/dss.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2587 bytes  received 6140 bytes  1342.62 bytes/sec
+total size is 1120929  speedup is 128.44
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/dss.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 1988 bytes  received 6140 bytes  1083.73 bytes/sec
+total size is 1120929  speedup is 137.91
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/dss.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2909 bytes  received 6140 bytes  1206.53 bytes/sec
+total size is 1120917  speedup is 123.87
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/dss.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 583872 bytes  received 6140 bytes  78668.27 bytes/sec
+total size is 1476572  speedup is 2.50
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 127065 bytes  received 8864 bytes  18123.87 bytes/sec
+total size is 1603081  speedup is 11.79
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2172 bytes  received 9956 bytes  1617.07 bytes/sec
+total size is 1603081  speedup is 132.18
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+./
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/
+archives/index.xml
+categories/
+categories/index.xml
+coc/
+coc/index.html
+faq/
+faq/index.html
+logos/
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/
+media/index.html
+schedule/
+schedule/index.html
+signup/
+signup/index.html
+sponsors/
+sponsors/index.html
+sponsorship/
+sponsorship/index.html
+tags/
+tags/index.xml
+workshops/
+workshops/index.html
+
+sent 2230 bytes  received 10034 bytes  1635.20 bytes/sec
+total size is 1603081  speedup is 130.71
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ ls -la
+total 1200
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 21:48 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 16:20 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-r--r--@  1 mine  staff  581857 Feb 25 16:20 background.jpg
+-rwxr-xr-x@  1 mine  staff    2347 Feb 25 21:47 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Feb 25 21:48 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a_r [K[K[K+r background.jpg
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a+r background.jpgls -la[K
+total 1200
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 21:48 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 16:20 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-r--r--@  1 mine  staff  581857 Feb 25 16:20 background.jpg
+-rwxr-xr-x@  1 mine  staff    2347 Feb 25 21:47 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Feb 25 21:48 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ ls -lachmod a+r background.jpgls -la[Kmake push[3Pls -lachmod a+r background.jpgls -la[K[Kls -lachmod a+r background.jpgls -la[Kmake push[3Pls -lachmod a+r background.jpgls -la[Kchmod a+r background.jpgls -la[K[Kmake pish[K[K[Kush
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+./
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/
+archives/index.xml
+categories/
+categories/index.xml
+coc/
+coc/index.html
+faq/
+faq/index.html
+logos/
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/ssri.png
+media/
+media/index.html
+schedule/
+schedule/index.html
+signup/
+signup/index.html
+sponsors/
+sponsors/index.html
+sponsorship/
+sponsorship/index.html
+tags/
+tags/index.xml
+workshops/
+workshops/index.html
+
+sent 423022 bytes  received 10034 bytes  45584.84 bytes/sec
+total size is 1434933  speedup is 3.31
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+./
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 307528 bytes  received 8946 bytes  42196.53 bytes/sec
+total size is 1323738  speedup is 4.18
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ ls -la
+total 632
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 22:07 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 21:57 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-r--r--@  1 mine  staff  294574 Feb 25 22:07 background.jpg
+-rwxr-xr-x@  1 mine  staff    2308 Feb 25 21:59 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Aug 29 04:15 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmpd [K[K[Kpd[K[Kod a+r background.jph[Kg
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ chmod a+r background.jpgls -la[K
+total 632
+drwxr-xr-x@ 15 mine  staff     480 Feb 25 22:07 .
+drwxr-xr-x@ 35 mine  staff    1120 Feb 25 11:43 ..
+-rw-r--r--@  1 mine  staff    6148 Feb 25 21:57 .DS_Store
+-rw-r--r--@  1 mine  staff      83 Feb 25 12:41 .Rhistory
+drwxr-xr-x@  4 mine  staff     128 Feb 25 11:43 .Rproj.user
+-rwxr-xr-x@  1 mine  staff     330 Feb 25 16:12 Makefile
+-rw-r--r--@  1 mine  staff  294574 Feb 25 22:07 background.jpg
+-rwxr-xr-x@  1 mine  staff    2308 Feb 25 21:59 config.toml
+drwxr-xr-x@ 13 mine  staff     416 Feb 25 16:12 content
+-rw-r--r--@  1 mine  staff     205 Feb 25 13:03 df-web-blogdown.Rproj
+drwxr-xr-x@ 23 mine  staff     736 Aug 29 04:15 docs
+-rw-r--r--@  1 mine  staff    2720 Feb 25 13:55 favicon.ico
+drwxr-xr-x@  4 mine  staff     128 Aug 29 03:24 layouts
+drwxr-xr-x@  9 mine  staff     288 Feb 14 15:04 libs
+drwxr-xr-x@  4 mine  staff     128 Aug 29 00:44 themes
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ ls -lachmod a+r background.jpgls -la[Kmake push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+
+sent 1276 bytes  received 2614 bytes  598.46 bytes/sec
+total size is 1323738  speedup is 340.29
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 6078 bytes  received 7986 bytes  2163.69 bytes/sec
+total size is 1324059  speedup is 94.15
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2236 bytes  received 7986 bytes  1572.62 bytes/sec
+total size is 1324059  speedup is 129.53
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2904 bytes  received 7986 bytes  1675.38 bytes/sec
+total size is 1324050  speedup is 121.58
+[KMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+css/material-kit.css
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 274914 bytes  received 8986 bytes  37853.33 bytes/sec
+total size is 1302771  speedup is 4.59
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+css/bootstrap.min.css
+css/material-kit.css
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 3591 bytes  received 9776 bytes  1782.27 bytes/sec
+total size is 1302961  speedup is 97.48
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2564 bytes  received 7806 bytes  1382.67 bytes/sec
+total size is 1302956  speedup is 125.65
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2756 bytes  received 7806 bytes  1624.92 bytes/sec
+total size is 1302990  speedup is 123.37
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2708 bytes  received 7806 bytes  1617.54 bytes/sec
+total size is 1302965  speedup is 123.93
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2755 bytes  received 7806 bytes  1624.77 bytes/sec
+total size is 1302973  speedup is 123.38
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2523 bytes  received 7806 bytes  1377.20 bytes/sec
+total size is 1302973  speedup is 126.15
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2516 bytes  received 7806 bytes  1376.27 bytes/sec
+total size is 1302973  speedup is 126.23
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 92464 bytes  received 7806 bytes  13369.33 bytes/sec
+total size is 1302111  speedup is 12.99
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
+cp favicon.ico docs/
+cp background.jpg docs/
+rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
+mc301@okeeffe.stat.duke.edu's password: 
+building file list ... done
+background.jpg
+favicon.ico
+index.html
+index.xml
+sitemap.xml
+archives/index.xml
+categories/index.xml
+coc/index.html
+faq/index.html
+logos/asa.png
+logos/datacamp.png
+logos/dss.png
+logos/dukelib.png
+logos/memp.png
+logos/rstudio.png
+logos/rti.png
+logos/secondorder.png
+logos/ssri.png
+media/index.html
+schedule/index.html
+signup/index.html
+sponsors/index.html
+sponsorship/index.html
+tags/index.xml
+workshops/index.html
+
+sent 2421 bytes  received 7800 bytes  1202.47 bytes/sec
+total size is 1302128  speedup is 127.40
+git init
+Initialized empty Git repository in /Users/mine/Desktop/Projects/DataFest/df-web-blogdown/.git/
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git add README.md
+fatal: pathspec 'README.md' did not match any files
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git commit -m "first commi t"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mMakefile[m
+	[31mbackground.jpg[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mdf-web-blogdown.Rproj[m
+	[31mdocs/[m
+	[31mfavicon.ico[m
+	[31mlayouts/[m
+	[31mlibs/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ touch README,m[K[K.md
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ touch README.md[Ktouch README.mdgit commit -m "first committ"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Ptouch README.md
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit add README.md
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git commit -m "first commi t"
+[master (root-commit) e354c2d] first commit
+ 1 file changed, 3 insertions(+)
+ create mode 100644 README.md
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git remote add origin git@ github.com:mine-cetinkaya-rundel/datafest-web.git
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git push -u origin master
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 290 bytes | 290.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To github.com:mine-cetinkaya-rundel/datafest-web.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git add .
