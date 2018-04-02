@@ -7,7 +7,7 @@ markup: "mmark"
 
 **Welcome!**
 
-@Penn Pavillion unless otherwise noted
+@ Penn Pavillion unless otherwise noted
 
 - 4-6pm - Registration
 - 6-7pm - Kickoff & Meet the data
@@ -19,7 +19,7 @@ Consultants available for help until midnight, you can work as late as you like.
 
 **Carry on!**
 
-@Penn Pavillion all day
+@ Penn Pavillion all day
 
 - 9am - Breakfast
 - 12:30pm - Lunch
@@ -33,7 +33,7 @@ Consultants available for help until midnight, you can work as late as you like.
 
 **Wrap up!**
 
-@Penn Pavillion unless otherwise noted
+@ Penn Pavillion unless otherwise noted
 
 - 9am - Breakfast
 - 12pm - Stop work & Lunch
