@@ -1,1330 +1,0 @@
-
-css/material-kit.css
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 274914 bytes  received 8986 bytes  37853.33 bytes/sec
-total size is 1302771  speedup is 4.59
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-css/bootstrap.min.css
-css/material-kit.css
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 3591 bytes  received 9776 bytes  1782.27 bytes/sec
-total size is 1302961  speedup is 97.48
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2564 bytes  received 7806 bytes  1382.67 bytes/sec
-total size is 1302956  speedup is 125.65
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2756 bytes  received 7806 bytes  1624.92 bytes/sec
-total size is 1302990  speedup is 123.37
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2708 bytes  received 7806 bytes  1617.54 bytes/sec
-total size is 1302965  speedup is 123.93
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2755 bytes  received 7806 bytes  1624.77 bytes/sec
-total size is 1302973  speedup is 123.38
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2523 bytes  received 7806 bytes  1377.20 bytes/sec
-total size is 1302973  speedup is 126.15
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2516 bytes  received 7806 bytes  1376.27 bytes/sec
-total size is 1302973  speedup is 126.23
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 92464 bytes  received 7806 bytes  13369.33 bytes/sec
-total size is 1302111  speedup is 12.99
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2421 bytes  received 7800 bytes  1202.47 bytes/sec
-total size is 1302128  speedup is 127.40
-git init
-Initialized empty Git repository in /Users/mine/Desktop/Projects/DataFest/df-web-blogdown/.git/
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git add README.md
-fatal: pathspec 'README.md' did not match any files
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git commit -m "first commi t"
-On branch master
-
-Initial commit
-
-Untracked files:
-	[31m.Rhistory[m
-	[31m.Rproj.user/[m
-	[31mMakefile[m
-	[31mbackground.jpg[m
-	[31mconfig.toml[m
-	[31mcontent/[m
-	[31mdf-web-blogdown.Rproj[m
-	[31mdocs/[m
-	[31mfavicon.ico[m
-	[31mlayouts/[m
-	[31mlibs/[m
-	[31mthemes/[m
-
-nothing added to commit but untracked files present
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ touch README,m[K[K.md
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ touch README.md[Ktouch README.mdgit commit -m "first committ"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Ptouch README.md
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kgit add README.md
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git commit -m "first commi t"
-[master (root-commit) e354c2d] first commit
- 1 file changed, 3 insertions(+)
- create mode 100644 README.md
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git remote add origin git@ github.com:mine-cetinkaya-rundel/datafest-web.git
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git push -u origin master
-Counting objects: 3, done.
-Delta compression using up to 4 threads.
-Compressing objects:  50% (1/2)   Compressing objects: 100% (2/2)   Compressing objects: 100% (2/2), done.
-Writing objects:  33% (1/3)   Writing objects:  66% (2/3)   Writing objects: 100% (3/3)   Writing objects: 100% (3/3), 290 bytes | 290.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To github.com:mine-cetinkaya-rundel/datafest-web.git
- * [new branch]      master -> master
-Branch master set up to track remote branch master from origin.
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git add .
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git commit -m "add new blo gdown website"
-[master 71c2a9b] add new blogdown website
- 153 files changed, 20314 insertions(+)
- create mode 100644 .Rhistory
- create mode 100644 .Rproj.user/A4D8F732/console06/A809EDC0
- create mode 100644 .Rproj.user/A4D8F732/console06/A809EDC0.env
- create mode 100644 .Rproj.user/A4D8F732/console06/INDEX001
- create mode 100644 .Rproj.user/A4D8F732/pcs/files-pane.pper
- create mode 100644 .Rproj.user/A4D8F732/pcs/find-in-files.pper
- create mode 100644 .Rproj.user/A4D8F732/pcs/source-pane.pper
- create mode 100644 .Rproj.user/A4D8F732/pcs/windowlayoutstate.pper
- create mode 100644 .Rproj.user/A4D8F732/pcs/workbench-pane.pper
- create mode 100644 .Rproj.user/A4D8F732/rmd-outputs
- create mode 100644 .Rproj.user/A4D8F732/saved_source_markers
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/1ECE0506
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/2B4EC427
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/2BE3D5DD
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/332BD6F
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/36C57FBA
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/385F6492
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/3C9D1547
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/6F232961
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/6F9B4948
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/7BEA55F
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/8EE5CC20
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/AF72DED
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/B781CF03
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/BE2CFA07
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/C23820D5
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/CBB97B3B
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/D2D973D6
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/DE6826C6
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/DEE83963
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/E2E4D896
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/E4D6F520
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/E70EFC1A
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/EDB99080
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/F3FED871
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/FA1BBF72
- create mode 100644 .Rproj.user/A4D8F732/sources/prop/INDEX
- create mode 100644 .Rproj.user/A4D8F732/sources/s-280EAE16/265BD950
- create mode 100644 .Rproj.user/A4D8F732/sources/s-280EAE16/265BD950-contents
- create mode 100644 .Rproj.user/A4D8F732/sources/s-280EAE16/lock_file
- create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
- create mode 100644 .Rproj.user/shared/notebooks/paths
- create mode 100755 Makefile
- create mode 100644 background.jpg
- create mode 100755 config.toml
- create mode 100755 content/_index.md
- create mode 100755 content/coc.md
- create mode 100755 content/faq.md
- create mode 100644 content/logos/asa.png
- create mode 100644 content/logos/datacamp.png
- create mode 100644 content/logos/dss.png
- create mode 100644 content/logos/dukelib.png
- create mode 100644 content/logos/memp.png
- create mode 100644 content/logos/rstudio.png
- create mode 100644 content/logos/rti.png
- create mode 100644 content/logos/secondorder.png
- create mode 100644 content/logos/ssri.png
- create mode 100755 content/media.md
- create mode 100755 content/schedule.md
- create mode 100755 content/signup.md
- create mode 100755 content/sponsors.md
- create mode 100755 content/sponsorship.md
- create mode 100755 content/workshops.md
- create mode 100644 df-web-blogdown.Rproj
- create mode 100644 docs/archives/index.xml
- create mode 100644 docs/background.jpg
- create mode 100644 docs/categories/index.xml
- create mode 100644 docs/coc/index.html
- create mode 100755 docs/css/bootstrap.min.css
- create mode 100755 docs/css/demo.css
- create mode 100755 docs/css/material-kit.css
- create mode 100755 docs/css/material-kit.css.map
- create mode 100644 docs/faq/index.html
- create mode 100644 docs/favicon.ico
- create mode 100755 docs/img/apple-icon.png
- create mode 100755 docs/img/arrow-left.cur
- create mode 100755 docs/img/arrow-left.png
- create mode 100755 docs/img/arrow-right.cur
- create mode 100755 docs/img/arrow-right.png
- create mode 100755 docs/img/cc-by.svg
- create mode 100644 docs/index.html
- create mode 100644 docs/index.xml
- create mode 100755 docs/js/bootstrap-datepicker.js
- create mode 100755 docs/js/bootstrap.min.js
- create mode 100755 docs/js/jquery.min.js
- create mode 100755 docs/js/material-kit.js
- create mode 100755 docs/js/material.min.js
- create mode 100755 docs/js/nouislider.min.js
- create mode 100644 docs/logos/asa.png
- create mode 100644 docs/logos/datacamp.png
- create mode 100644 docs/logos/dss.png
- create mode 100644 docs/logos/dukelib.png
- create mode 100644 docs/logos/memp.png
- create mode 100644 docs/logos/rstudio.png
- create mode 100644 docs/logos/rti.png
- create mode 100644 docs/logos/secondorder.png
- create mode 100644 docs/logos/ssri.png
- create mode 100644 docs/media/index.html
- create mode 100644 docs/schedule/index.html
- create mode 100644 docs/signup/index.html
- create mode 100644 docs/sitemap.xml
- create mode 100644 docs/sponsors/index.html
- create mode 100644 docs/sponsorship/index.html
- create mode 100644 docs/tags/index.xml
- create mode 100644 docs/workshops/index.html
- create mode 100644 favicon.ico
- create mode 100755 layouts/shortcodes/syllabus.html
- create mode 100644 libs/crosstalk/css/crosstalk.css
- create mode 100644 libs/crosstalk/js/crosstalk.js
- create mode 100644 libs/crosstalk/js/crosstalk.js.map
- create mode 100644 libs/crosstalk/js/crosstalk.min.js
- create mode 100644 libs/crosstalk/js/crosstalk.min.js.map
- create mode 100644 libs/datatables-binding/datatables.js
- create mode 100644 libs/datatables-css/datatables-crosstalk.css
- create mode 100644 libs/dt-core/css/jquery.dataTables.extra.css
- create mode 100644 libs/dt-core/css/jquery.dataTables.min.css
- create mode 100644 libs/dt-core/js/jquery.dataTables.min.js
- create mode 100644 libs/font-awesome/css/font-awesome.css
- create mode 100644 libs/font-awesome/css/font-awesome.min.css
- create mode 100644 libs/font-awesome/fonts/fontawesome-webfont.ttf
- create mode 100644 libs/htmlwidgets/htmlwidgets.js
- create mode 100644 libs/jquery/LICENSE.txt
- create mode 100644 libs/jquery/jquery.min.js
- create mode 100755 themes/material/layouts/_default/baseof.html
- create mode 100755 themes/material/layouts/_default/list.html
- create mode 100755 themes/material/layouts/_default/single.html
- create mode 100755 themes/material/layouts/_default/template.html
- create mode 100755 themes/material/layouts/page/landing.html
- create mode 100755 themes/material/layouts/page/profile.html
- create mode 100755 themes/material/layouts/page/signup.html
- create mode 100755 themes/material/layouts/partials/footer.html
- create mode 100755 themes/material/layouts/partials/head.html
- create mode 100755 themes/material/layouts/partials/header.html
- create mode 100755 themes/material/layouts/partials/javascript.html
- create mode 100755 themes/material/layouts/partials/nav-absolute.html
- create mode 100755 themes/material/layouts/partials/nav-fixed-top.html
- create mode 100755 themes/material/layouts/partials/nav.html
- create mode 100755 themes/material/static/css/bootstrap.min.css
- create mode 100755 themes/material/static/css/demo.css
- create mode 100755 themes/material/static/css/material-kit.css
- create mode 100755 themes/material/static/css/material-kit.css.map
- create mode 100755 themes/material/static/img/apple-icon.png
- create mode 100755 themes/material/static/img/arrow-left.cur
- create mode 100755 themes/material/static/img/arrow-left.png
- create mode 100755 themes/material/static/img/arrow-right.cur
- create mode 100755 themes/material/static/img/arrow-right.png
- create mode 100755 themes/material/static/img/cc-by.svg
- create mode 100755 themes/material/static/js/bootstrap-datepicker.js
- create mode 100755 themes/material/static/js/bootstrap.min.js
- create mode 100755 themes/material/static/js/jquery.min.js
- create mode 100755 themes/material/static/js/material-kit.js
- create mode 100755 themes/material/static/js/material.min.js
- create mode 100755 themes/material/static/js/nouislider.min.js
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git pish[K[K[Kush
-Counting objects: 171, done.
-Delta compression using up to 4 threads.
-Compressing objects:   0% (1/148)   Compressing objects:   1% (2/148)   Compressing objects:   2% (3/148)   Compressing objects:   3% (5/148)   Compressing objects:   4% (6/148)   Compressing objects:   5% (8/148)   Compressing objects:   6% (9/148)   Compressing objects:   7% (11/148)   Compressing objects:   8% (12/148)   Compressing objects:   9% (14/148)   Compressing objects:  10% (15/148)   Compressing objects:  11% (17/148)   Compressing objects:  12% (18/148)   Compressing objects:  13% (20/148)   Compressing objects:  14% (21/148)   Compressing objects:  15% (23/148)   Compressing objects:  16% (24/148)   Compressing objects:  17% (26/148)   Compressing objects:  18% (27/148)   Compressing objects:  19% (29/148)   Compressing objects:  20% (30/148)   Compressing objects:  21% (32/148)   Compressing objects:  22% (33/148)   Compressing objects:  23% (35/148)   Compressing objects:  24% (36/148)   Compressing objects:  25% (37/148)   Compressing objects:  26% (39/148)   Compressing objects:  27% (40/148)   Compressing objects:  28% (42/148)   Compressing objects:  29% (43/148)   Compressing objects:  30% (45/148)   Compressing objects:  31% (46/148)   Compressing objects:  32% (48/148)   Compressing objects:  33% (49/148)   Compressing objects:  34% (51/148)   Compressing objects:  35% (52/148)   Compressing objects:  36% (54/148)   Compressing objects:  37% (55/148)   Compressing objects:  38% (57/148)   Compressing objects:  39% (58/148)   Compressing objects:  40% (60/148)   Compressing objects:  41% (61/148)   Compressing objects:  42% (63/148)   Compressing objects:  43% (64/148)   Compressing objects:  44% (66/148)   Compressing objects:  45% (67/148)   Compressing objects:  46% (69/148)   Compressing objects:  47% (70/148)   Compressing objects:  48% (72/148)   Compressing objects:  49% (73/148)   Compressing objects:  50% (74/148)   Compressing objects:  51% (76/148)   Compressing objects:  52% (77/148)   Compressing objects:  53% (79/148)   Compressing objects:  54% (80/148)   Compressing objects:  55% (82/148)   Compressing objects:  56% (83/148)   Compressing objects:  57% (85/148)   Compressing objects:  58% (86/148)   Compressing objects:  59% (88/148)   Compressing objects:  60% (89/148)   Compressing objects:  61% (91/148)   Compressing objects:  62% (92/148)   Compressing objects:  63% (94/148)   Compressing objects:  64% (95/148)   Compressing objects:  65% (97/148)   Compressing objects:  66% (98/148)   Compressing objects:  67% (100/148)   Compressing objects:  68% (101/148)   Compressing objects:  69% (103/148)   Compressing objects:  70% (104/148)   Compressing objects:  71% (106/148)   Compressing objects:  72% (107/148)   Compressing objects:  73% (109/148)   Compressing objects:  74% (110/148)   Compressing objects:  75% (111/148)   Compressing objects:  76% (113/148)   Compressing objects:  77% (114/148)   Compressing objects:  78% (116/148)   Compressing objects:  79% (117/148)   Compressing objects:  80% (119/148)   Compressing objects:  81% (120/148)   Compressing objects:  82% (122/148)   Compressing objects:  83% (123/148)   Compressing objects:  84% (125/148)   Compressing objects:  85% (126/148)   Compressing objects:  86% (128/148)   Compressing objects:  87% (129/148)   Compressing objects:  88% (131/148)   Compressing objects:  89% (132/148)   Compressing objects:  90% (134/148)   Compressing objects:  91% (135/148)   Compressing objects:  92% (137/148)   Compressing objects:  93% (138/148)   Compressing objects:  94% (140/148)   Compressing objects:  95% (141/148)   Compressing objects:  96% (143/148)   Compressing objects:  97% (144/148)   Compressing objects:  98% (146/148)   Compressing objects:  99% (147/148)   Compressing objects: 100% (148/148)   Compressing objects: 100% (148/148), done.
-Writing objects:   0% (1/171)   Writing objects:   1% (2/171)   Writing objects:   2% (4/171)   Writing objects:   3% (6/171)   Writing objects:   4% (7/171)   Writing objects:   5% (9/171)   Writing objects:   6% (11/171)   Writing objects:   7% (12/171)   Writing objects:   8% (14/171)   Writing objects:   9% (16/171)   Writing objects:  10% (18/171)   Writing objects:  11% (19/171)   Writing objects:  12% (21/171)   Writing objects:  13% (23/171)   Writing objects:  14% (24/171)   Writing objects:  15% (26/171)   Writing objects:  16% (28/171)   Writing objects:  17% (30/171)   Writing objects:  18% (31/171)   Writing objects:  19% (33/171)   Writing objects:  20% (35/171)   Writing objects:  21% (36/171)   Writing objects:  22% (38/171)   Writing objects:  23% (40/171)   Writing objects:  24% (42/171)   Writing objects:  25% (43/171)   Writing objects:  26% (45/171)   Writing objects:  27% (47/171)   Writing objects:  28% (48/171)   Writing objects:  29% (50/171)   Writing objects:  30% (52/171)   Writing objects:  31% (54/171)   Writing objects:  32% (55/171)   Writing objects:  33% (57/171)   Writing objects:  34% (59/171)   Writing objects:  35% (60/171)   Writing objects:  36% (62/171)   Writing objects:  37% (64/171)   Writing objects:  38% (65/171)   Writing objects:  39% (67/171)   Writing objects:  40% (69/171)   Writing objects:  41% (71/171)   Writing objects:  42% (72/171)   Writing objects:  43% (74/171)   Writing objects:  44% (76/171)   Writing objects:  45% (77/171)   Writing objects:  46% (79/171)   Writing objects:  47% (81/171)   Writing objects:  48% (83/171)   Writing objects:  49% (84/171)   Writing objects:  50% (87/171)   Writing objects:  51% (88/171)   Writing objects:  52% (89/171)   Writing objects:  53% (92/171)   Writing objects:  54% (94/171)   Writing objects:  55% (95/171)   Writing objects:  56% (96/171)   Writing objects:  57% (98/171)   Writing objects:  58% (100/171)   Writing objects:  59% (101/171)   Writing objects:  60% (103/171)   Writing objects:  61% (105/171)   Writing objects:  62% (107/171)   Writing objects:  63% (108/171)   Writing objects:  64% (110/171)   Writing objects:  65% (112/171)   Writing objects:  66% (113/171)   Writing objects:  67% (115/171)   Writing objects:  68% (117/171)   Writing objects:  69% (118/171)   Writing objects:  70% (120/171)   Writing objects:  71% (122/171)   Writing objects:  72% (124/171)   Writing objects:  73% (125/171)   Writing objects:  74% (128/171)   Writing objects:  75% (129/171)   Writing objects:  76% (130/171)   Writing objects:  77% (132/171)   Writing objects:  78% (134/171)   Writing objects:  79% (136/171)   Writing objects:  80% (137/171)   Writing objects:  81% (139/171)   Writing objects:  82% (141/171)   Writing objects:  83% (142/171)   Writing objects:  84% (144/171)   Writing objects:  85% (146/171)   Writing objects:  86% (148/171)   Writing objects:  87% (149/171)   Writing objects:  88% (151/171)   Writing objects:  89% (153/171)   Writing objects:  90% (154/171)   Writing objects:  91% (156/171)   Writing objects:  92% (158/171)   Writing objects:  93% (160/171)   Writing objects:  94% (161/171)   Writing objects:  95% (163/171)   Writing objects:  96% (165/171)   Writing objects:  97% (166/171)   Writing objects:  98% (168/171)   Writing objects:  99% (170/171)   Writing objects: 100% (171/171)   Writing objects: 100% (171/171), 1.04 MiB | 6.16 MiB/s, done.
-Total 171 (delta 16), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/16)   [Kremote: Resolving deltas:  12% (2/16)   [Kremote: Resolving deltas:  43% (7/16)   [Kremote: Resolving deltas:  68% (11/16)   [Kremote: Resolving deltas:  75% (12/16)   [Kremote: Resolving deltas:  81% (13/16)   [Kremote: Resolving deltas:  87% (14/16)   [Kremote: Resolving deltas: 100% (16/16)   [Kremote: Resolving deltas: 100% (16/16), done.[K
-To github.com:mine-cetinkaya-rundel/datafest-web.git
-   e354c2d..71c2a9b  master -> master
-make push[KMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-^Crsync error: received SIGINT, SIGTERM, or SIGHUP (code 20) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/rsync.c(244) [sender=2.6.9]
-make: *** [push] Error 20
-
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-Connection closed by 152.3.22.89 port 22
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-Connection closed by 152.3.22.89 port 22
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-Connection closed by 152.3.22.89 port 22
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ [KMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@nighthawk.stat.duke.edu:~/.public_html/datafest
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
-Someone could be eavesdropping on you right now (man-in-the-middle attack)!
-It is also possible that a host key has just been changed.
-The fingerprint for the ECDSA key sent by the remote host is
-SHA256:ccIiOMNDOvZN1u6jJpukCbLWhGjAxWLyULNXGfMKxYo.
-Please contact your system administrator.
-Add correct host key in /Users/mine/.ssh/known_hosts to get rid of this message.
-Offending ECDSA key in /Users/mine/.ssh/known_hosts:4
-ECDSA host key for nighthawk.stat.duke.edu has changed and you have requested strict checking.
-Host key verification failed.
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@nighthawk.stat.duke.edu:~/.public_html/datafest
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
-Someone could be eavesdropping on you right now (man-in-the-middle attack)!
-It is also possible that a host key has just been changed.
-The fingerprint for the ECDSA key sent by the remote host is
-SHA256:ccIiOMNDOvZN1u6jJpukCbLWhGjAxWLyULNXGfMKxYo.
-Please contact your system administrator.
-Add correct host key in /Users/mine/.ssh/known_hosts to get rid of this message.
-Offending ECDSA key in /Users/mine/.ssh/known_hosts:4
-ECDSA host key for nighthawk.stat.duke.edu has changed and you have requested strict checking.
-Host key verification failed.
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@nighthawk.stat.duke.edu:~/.public_html/datafest
-The authenticity of host 'nighthawk.stat.duke.edu (152.3.22.68)' can't be established.
-ECDSA key fingerprint is SHA256:ccIiOMNDOvZN1u6jJpukCbLWhGjAxWLyULNXGfMKxYo.
-Are you sure you want to continue connecting (yes/no)? yes
-Warning: Permanently added 'nighthawk.stat.duke.edu,152.3.22.68' (ECDSA) to the list of known hosts.
-mc301@nighthawk.stat.duke.edu's password: 
-Permission denied, please try again.
-mc301@nighthawk.stat.duke.edu's password: 
-Connection closed by 152.3.22.68 port 22
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@nighthawk.stat.duke.edu:~/.public_html/datafest
-mc301@nighthawk.stat.duke.edu's password: 
-ssh_dispatch_run_fatal: Connection to 152.3.22.68 port 22: Broken pipe
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2768 bytes  received 7800 bytes  1409.07 bytes/sec
-total size is 1302550  speedup is 123.25
-[KMatte:df-web-blogdown mine$ male [K[K[Kke pis[K[Kush
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 4290 bytes  received 7800 bytes  1422.35 bytes/sec
-total size is 1306210  speedup is 108.04
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2892 bytes  received 7830 bytes  1261.41 bytes/sec
-total size is 1306416  speedup is 121.84
-git remote -v[KMatte:df-web-blogdown mine$ git remote -v[4Pmake push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-logos/vps.jpg
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 33170 bytes  received 7858 bytes  4318.74 bytes/sec
-total size is 1347440  speedup is 32.84
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/ssri.png
-logos/vfs.png
-logos/vps.jpg
-logos/vps.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 376753 bytes  received 8284 bytes  45298.47 bytes/sec
-total size is 1428019  speedup is 3.71
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git remote -v
-origin	git@github.com:mine-cetinkaya-rundel/datafest-web.git (fetch)
-origin	git@github.com:mine-cetinkaya-rundel/datafest-web.git (push)
-ke push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 44098 bytes  received 8160 bytes  6148.00 bytes/sec
-total size is 1469335  speedup is 28.12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 3045 bytes  received 8514 bytes  1359.88 bytes/sec
-total size is 1469353  speedup is 127.12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 3033 bytes  received 8514 bytes  1358.47 bytes/sec
-total size is 1469353  speedup is 127.25
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2758 bytes  received 8514 bytes  1186.53 bytes/sec
-total size is 1469349  speedup is 130.35
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2761 bytes  received 8514 bytes  1186.84 bytes/sec
-total size is 1469345  speedup is 130.32
-[KMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 3026 bytes  received 8514 bytes  1214.74 bytes/sec
-total size is 1470713  speedup is 127.44
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-mc301@okeeffe.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2867 bytes  received 8526 bytes  1519.07 bytes/sec
-total size is 1470918  speedup is 129.11
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-ssh: connect to host okeeffe.stat.duke.edu port 22: Operation timed out
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@okeeffe.stat.duke.edu:~/.public_html/datafest
-ssh: connect to host okeeffe.stat.duke.edu port 22: Operation timed out
-rsync: connection unexpectedly closed (0 bytes received so far) [sender]
-rsync error: error in rsync protocol data stream (code 12) at /BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-52/rsync/io.c(453) [sender=2.6.9]
-make: *** [push] Error 12
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@gort.stat.duke.edu:~/.public_html/datafest
-mc301@gort.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/microsoft.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 17206 bytes  received 8554 bytes  3434.67 bytes/sec
-total size is 1492762  speedup is 57.95
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@gort.stat.duke.edu:~/.public_html/datafest
-mc301@gort.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/microsoft.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2806 bytes  received 8734 bytes  1538.67 bytes/sec
-total size is 1492766  speedup is 129.36
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@gort.stat.duke.edu:~/.public_html/datafest
-mc301@gort.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/microsoft.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 19757 bytes  received 8734 bytes  3798.80 bytes/sec
-total size is 1489096  speedup is 52.27
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@gort.stat.duke.edu:~/.public_html/datafest
-mc301@gort.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/microsoft.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 32297 bytes  received 8704 bytes  6307.85 bytes/sec
-total size is 1506508  speedup is 36.74
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@gort.stat.duke.edu:~/.public_html/datafest
-mc301@gort.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/microsoft.png
-logos/ncstate.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 41378 bytes  received 8876 bytes  5912.24 bytes/sec
-total size is 1545534  speedup is 30.75
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ make push
-cp favicon.ico docs/
-cp background.jpg docs/
-rsync -azv --delete  --exclude='.DS_Store'  docs/ mc301@gort.stat.duke.edu:~/.public_html/datafest
-mc301@gort.stat.duke.edu's password: 
-building file list ... done
-background.jpg
-favicon.ico
-index.html
-index.xml
-sitemap.xml
-archives/index.xml
-categories/index.xml
-coc/index.html
-faq/index.html
-logos/asa.png
-logos/datacamp.png
-logos/dss.png
-logos/dukelib.png
-logos/duketrinity.png
-logos/memp.png
-logos/microsoft.png
-logos/ncstate.png
-logos/rstudio.png
-logos/rti.png
-logos/secondorder.png
-logos/sofc.png
-logos/ssri.png
-logos/vfs.png
-media/index.html
-schedule/index.html
-signup/index.html
-sponsors/index.html
-sponsorship/index.html
-tags/index.xml
-workshops/index.html
-
-sent 2885 bytes  received 9206 bytes  1612.13 bytes/sec
-total size is 1545608  speedup is 127.83
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ got [K[K[Kit remote -v
-origin	git@github.com:mine-cetinkaya-rundel/datafest-web.git (fetch)
-origin	git@github.com:mine-cetinkaya-rundel/datafest-web.git (push)
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git add .
-]0;~/Desktop/Projects/DataFest/df-web-blogdownMatte:df-web-blogdown mine$ git commit -m "new page!"
-bash: !": event not found
-Matte:df-web-blogdown mine$ git p[K[K[K[K[Kgit add .remote -v[4Padd .[K
