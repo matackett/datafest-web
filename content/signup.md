@@ -7,7 +7,9 @@ We have reached max capacity!
 
 As of April 1 we have over 350 students signed up for DataFest at Duke from eight area schools! We have reached capacity and registration is now closed.
 
-If you're insterested in serving as a consultant during the event, sign up below.
+<a href="https://goo.gl/forms/nTUIDUpb8OiXy7j63"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> If you are interested in serving as a consultant during the event, please let us know your availability [here](https://goo.gl/forms/nTUIDUpb8OiXy7j63).
+
+Alternatively, even if you're not competing, you're welcomed to attend the final presentations at 3pm on Sunday, April 8, at Penn Pavilion.
 
 Thank you for your interest and see you at DataFest!
 
@@ -33,11 +35,11 @@ Seats are limited, sign up before it's too late!
 
 <a href="https://goo.gl/forms/vs11q4jKzejYUoYZ2"><i class="fas fa-user-plus fa-2x" style="color:#E91E63"></i></a> If you do not have a team in mind but you're looking for teammates, click [here](https://goo.gl/forms/vs11q4jKzejYUoYZ2) to leave us your information so that you can be matched with others.
 
--->
-
 ## Consultants
 
 <a href="https://goo.gl/forms/nTUIDUpb8OiXy7j63"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> If you are interested in serving as a consultant during the event, please let us know your availability [here](https://goo.gl/forms/nTUIDUpb8OiXy7j63).
+
+-->
 
 
 
