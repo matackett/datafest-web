@@ -13,6 +13,8 @@ ASA participants agree to:
 - Refrain from demeaning, discriminatory, or harassing behavior and speech. Harassment includes, but is not limited to: deliberate intimidation; stalking; unwanted photography or recording; sustained or willful disruption of talks or other events; inappropriate physical contact; use of sexual or discriminatory imagery, comments, or jokes; and unwelcome sexual attention. If you feel that someone has harassed you or otherwise treated you inappropriately, please alert any organizers in person.
 - Take care of each other. Alert a member of the organizers if you notice a dangerous situation, someone in distress, or violations of this code of conduct, even if they seem inconsequential.
 
+For more on the code of conduct, please see the [ASA Meeting Code of Conduct](https://www.amstat.org/ASA/Meetings/Meeting-Conduct-Policy.aspx?hkey=cd6c7609-5d24-4f07-b0e3-8606ca98de47).
+
 ### Need Help?
 
 Please speak with Mine Çetinkaya-Rundel or reach them at [mine@stat.duke.edu](mailto:mine@stat.duke.edu).
