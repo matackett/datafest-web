@@ -1,6 +1,6 @@
 ---
 title: "Duke DataFest 2018"
-description: "April 6-8, 2018 at Penn Pavillion // Sign up now!"
+description: "April 6-8, 2018 at Penn Pavillion"
 markup: "mmark"
 ---
 
