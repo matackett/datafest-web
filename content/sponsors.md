@@ -19,9 +19,15 @@ The [Student Organization Finance Committee (SOFC)](http://www.dukestudentgovern
 
 <img style="width:320px;float: left;padding-right:20px" src="/logos/microsoft.png">
 
-At [Microsoft](https://www.microsoft.com/en-us/) our mission and values are to help people and businesses throughout the world realize their full potential.
+Empower every person and every organization on this planet to achieve more. See [microsoft.com](https://www.microsoft.com/en-us/) for more.
 
 <br><br><br>
+
+<img style="width:320px;float: left;padding-right:20px" src="/logos/iid.png">
+
+At [iiD](http://bigdata.duke.edu/) is all about Making Data Matter.
+
+<br><br><br><br><br>
 
 ## Pareto Sponsors
 
@@ -63,6 +69,12 @@ The [Department of Statistics at NC State](https://www.stat.ncsu.edu/information
 
 <br><br>
 
+<img style="width:320px;float: left;padding-right:20px" src="/logos/uncstor.png">
+
+[The Department of Statistics and Operations Research](https://stat-or.unc.edu/) specializes in inference, decision-making, and data analysis involving complex models and systems exhibiting both deterministic and random behavior.  We focus on developing and analyzing the necessary quantitative and computational tools to enable practitioners to solve problems in statistical and probabilistic analysis, modeling, optimization, and the evaluation of system performance.
+
+<br><br>
+
 ## Weibull Sponsors
 
 <img style="width:320px;float:left;padding-right:20px" src="/logos/duketrinity.png">
@@ -80,6 +92,18 @@ With a core management curriculum and a wide variety of technical electives, [Du
 <img style="width:320px;float: left;padding-right:20px" src="/logos/rstudio.png">
 
 The technology to amass data exceeds our abilities to make use of it. People all over the world are turning to R, an open source statistical language, to make sense of data. Inspired by the innovations of R users in science, education, and industry, [RStudio](https://www.rstudio.com/) develops free and open tools for R and enterprise-ready professional products for teams to scale and share work. Our goal is to empower users to be productive with R.
+
+<br><br>
+
+<img style="width:320px;float:left;padding-right:20px" src="/logos/jmp.png">
+
+[JMP](http://www.jmp.com/en_us/home.html) (pronounced "jump") is a business unit of SAS that produces interactive software for desktop statistical discovery.
+
+<br><br><br><br><br><br><br>
+
+<img style="width:320px;float:left;padding-right:20px" src="/logos/innovationcolab.png">
+
+The [Innovation Co-Lab](https://colab.duke.edu/) is a creativity incubator, focused on exploring how new and emerging technologies can fundamentally reshape the research, academic, and service missions of the university. Working with innovation-minded colleagues around campus, they're building a model program that will elevate and inspire Duke students who are solving problems, big and small, through our ever-changing technological environment. Duke students of all backgrounds, interests, and skill-sets are encouraged to participate.
 
 <br><br>
 
