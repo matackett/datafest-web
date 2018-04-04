@@ -68,7 +68,7 @@ by Eric Monson
 | <i class="fas fa-user-plus"></i>    | &nbsp; [Sign up](https://duke.libcal.com/event/4037951) |
 | <i class="fas fa-calendar-alt"></i> | &nbsp; 04/04/2018  |
 | <i class="fas fa-clock"></i>        | &nbsp; 6 - 8pm     |
-| <i class="fas fa-map-marker"></i>   | &nbsp; Rubenstein 249 | 
+| <i class="fas fa-map-marker"></i>   | &nbsp; Bostock 023 | 
   
 Tableau Public (available for both Windows and Mac) is free software that allows individuals to quickly and easily explore their data with a wide variety of visual representations, as well as create interactive web-based visualization dashboards. This workshop will focus on using Tableau Public to create data visualizations, starting with an overview of how the program thinks about data, common data manipulation and loading, and the terminology used. Activities will include a sample data visualization and mapping project, which will give people hands-on experience using Tableau’s basic chart types and dashboard creation tools. We will also discuss publishing to the Tableau Public web server and related services and tools, like the full Tableau Desktop application (free for full-time students). Laptops with tableau public pre-installed are required for this workshop.
 
