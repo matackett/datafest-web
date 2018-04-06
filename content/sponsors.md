@@ -97,7 +97,8 @@ The technology to amass data exceeds our abilities to make use of it. People all
 
 <img style="width:320px;float:left;padding-right:20px" src="/logos/jmp.png">
 
-[JMP](http://www.jmp.com/en_us/home.html) (pronounced "jump") is a business unit of SAS that produces interactive software for desktop statistical discovery.
+JMP (pronounced "jump") is a business unit of SAS that produces interactive software for desktop statistical discovery. John Sall, SAS co-founder and Executive Vice President, created this dynamic software in 1989 and remains its chief architect and leader of the JMP division. Developed with scientists and engineers in mind, JMP has grown into a family of statistical discovery tools tailored to meet specific needs and used worldwide in almost every industry. By combining interactive data analysis with visualization, JMP accelerates the path to useful insights and meaningful discoveries. Find out more at [jmp.com](http://www.jmp.com).
+
 
 <br><br><br><br><br><br><br>
 
