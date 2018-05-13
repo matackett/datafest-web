@@ -94,6 +94,6 @@ by David Giard (Microsoft)
 | <i class="fas fa-user-plus"></i>    | No sign up needed |
 | <i class="fas fa-calendar-alt"></i> | &nbsp; 04/08/2018  |
 | <i class="fas fa-clock"></i>        | &nbsp; 8 - 9pm     |
-| <i class="fas fa-map-marker"></i>   | &nbsp; TBA | 
+| <i class="fas fa-map-marker"></i>   | &nbsp; Broadhead 068 | 
   
 The last few years, we have seen an explosion in data science, artificial intelligence, and machine learning. The rise of cloud computing has been a major factor in this explosion. Cloud platforms, such as Microsoft Azure, enable users to quickly spin up clusters of computers to perform the high-performance calculations required by data science problems. Azure offers a number of tools for building data science solutions: From a drag and drop interface to Jupyter Notebooks as a service to a Virtual Machine pre-configured with powerful Machine Learning tools. In this session, you will learn how the cloud has impacted data science, the most useful tools in Azure for a data scientist, and when it is appropriate to use each tool.
