@@ -3,7 +3,7 @@ title: "Schedule"
 markup: "mmark"
 ---
 
-### Friday, April 6, 2018
+### Friday, April 5, 2019
 
 **Welcome!**
 
@@ -15,7 +15,7 @@ markup: "mmark"
 
 Consultants available for help until midnight, you can work as late as you like.
 
-### Saturday, April 7, 2018
+### Saturday, April 6, 2019
 
 **Carry on!**
 
@@ -29,7 +29,7 @@ Consultants available for help until midnight, you can work as late as you like.
 
 Consultants available for help until midnight, you can work as late as you like.
 
-### Sunday, April 8, 2018
+### Sunday, April 7, 2019
 
 **Wrap up!**
 

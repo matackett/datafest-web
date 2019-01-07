@@ -3,7 +3,9 @@ title: "Sign up"
 markup: "mmark"
 ---
 
-We have reached max capacity!
+Registration for DataFest 2019 will open mid-February. Please check back then!
+
+<!--
 
 As of April 1 we have over 350 students signed up for DataFest at Duke from eight area schools! We have reached capacity and registration is now closed.
 
@@ -12,6 +14,8 @@ As of April 1 we have over 350 students signed up for DataFest at Duke from eigh
 Alternatively, even if you're not competing, you're welcomed to attend the final presentations at 3pm on Sunday, April 8, at Penn Pavilion.
 
 Thank you for your interest and see you at DataFest!
+
+-->
 
 <!--
 
@@ -40,8 +44,6 @@ Seats are limited, sign up before it's too late!
 <a href="https://goo.gl/forms/nTUIDUpb8OiXy7j63"><i class="fas fa-user-plus fa-2x" style="color:#4285F4"></i></a> If you are interested in serving as a consultant during the event, please let us know your availability [here](https://goo.gl/forms/nTUIDUpb8OiXy7j63).
 
 -->
-
-
 
 <br><br>
 

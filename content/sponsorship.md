@@ -11,7 +11,7 @@ Please [contact us](mailto:mine@stat.duke.edu) if you are interested in sponsors
 
 ### Impact of Your Sponsorship
 
-Your sponsorship of ASA DataFest<small><sup>TM</sup></small> 2018 benefits the ASA DataFest<small><sup>TM</sup></small> @ Duke. Any residual funds will support undergraduate statistics education, foster the new generation of data science, and advance our mission of promoting the use of data in the understanding of our environment, our social relationships, and our physical and virtual selves.
+Your sponsorship of ASA DataFest<small><sup>TM</sup></small> benefits the ASA DataFest<small><sup>TM</sup></small> @ Duke. Any residual funds will support undergraduate statistics education, foster the new generation of data science, and advance our mission of promoting the use of data in the understanding of our environment, our social relationships, and our physical and virtual selves.
 
 ### Benefits of Sponsorship
 

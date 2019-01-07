@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Duke DataFest 2018 on DataFest</title>
+    <title>Duke DataFest 2019 on DataFest</title>
     <link>/</link>
-    <description>Recent content in Duke DataFest 2018 on DataFest</description>
+    <description>Recent content in Duke DataFest 2019 on DataFest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -60,10 +60,10 @@ Is there a registration fee? There is a nominal registration fee of $20, but you
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/schedule/</guid>
-      <description>Friday, April 6, 2018 Welcome!
+      <description>Friday, April 5, 2019 Welcome!
 @ Penn Pavillion unless otherwise noted
  4-6pm - Registration 6-7pm - Kickoff &amp;amp; Meet the data 7pm - Dinner  Consultants available for help until midnight, you can work as late as you like.
-Saturday, April 7, 2018 Carry on!
+Saturday, April 6, 2019 Carry on!
 @ Penn Pavillion all day
  9am - Breakfast 12:30pm - Lunch 5:30pm - Group photo 6:00pm - Dinner 11:50pm - Midnight snack  Consultants available for help until midnight, you can work as late as you like.</description>
     </item>
@@ -74,10 +74,8 @@ Saturday, April 7, 2018 Carry on!
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/signup/</guid>
-      <description>We have reached max capacity!
-As of April 1 we have over 350 students signed up for DataFest at Duke from eight area schools! We have reached capacity and registration is now closed.
- If you are interested in serving as a consultant during the event, please let us know your availability here.
-Alternatively, even if you&#39;re not competing, you&#39;re welcomed to attend the final presentations at 3pm on Sunday, April 8, at Penn Pavilion.</description>
+      <description>Registration for DataFest 2019 will open mid-February. Please check back then!
+ If you are interested in serving as a consultant during the event, please let us know your availability [here](https://goo.gl/forms/nTUIDUpb8OiXy7j63). Alternatively, even if you&#39;re not competing, you&#39;re welcomed to attend the final presentations at 3pm on Sunday, April 8, at Penn Pavilion. Thank you for your interest and see you at DataFest! -- TM mailing list to receive updates and announcements.</description>
     </item>
     
     <item>
@@ -103,7 +101,7 @@ Empower every person and every organization on this planet to achieve more.</des
       <description>ASA DataFestTM at Duke cannot run without your support!
 Please see below for Sponsorship opportunities. Note that your donations are tax-deductible.
 Please contact us if you are interested in sponsorship and/or have any questions.
-Impact of Your Sponsorship Your sponsorship of ASA DataFestTM 2018 benefits the ASA DataFestTM @ Duke. Any residual funds will support undergraduate statistics education, foster the new generation of data science, and advance our mission of promoting the use of data in the understanding of our environment, our social relationships, and our physical and virtual selves.</description>
+Impact of Your Sponsorship Your sponsorship of ASA DataFestTM benefits the ASA DataFestTM @ Duke. Any residual funds will support undergraduate statistics education, foster the new generation of data science, and advance our mission of promoting the use of data in the understanding of our environment, our social relationships, and our physical and virtual selves.</description>
     </item>
     
     <item>
@@ -112,10 +110,8 @@ Impact of Your Sponsorship Your sponsorship of ASA DataFestTM 2018 benefits the 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/workshops/</guid>
-      <description>The following workshops will be held at Duke, participants from all schools are welcome. See here for visitor parking information.
-Dinner will be served at all workshops.
- Introduction to R by John Little &amp;amp; John Herndon
-          &amp;nbsp; Sign up    &amp;nbsp; 03/27/2018    &amp;nbsp; 6 - 8pm    &amp;nbsp; Perkins 217    A gentle introduction to the basics of R using RStudio.</description>
+      <description>Workshops will be announced closer to the event date.
+ Introduction to R by John Little &amp; John Herndon | | | | ------------------------------------|-------------| |  | &amp;nbsp; [Sign up](https://duke.libcal.com/event/4037851) | |  | &amp;nbsp; 03/27/2018 | |  | &amp;nbsp; 6 - 8pm | |  | &amp;nbsp; Perkins 217 | A gentle introduction to the basics of R using RStudio. Learn about managing your R projects, wrangling data, and writing clear code using the Tidyverse collection of R packages.</description>
     </item>
     
   </channel>
