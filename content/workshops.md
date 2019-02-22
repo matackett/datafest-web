@@ -37,6 +37,22 @@ Data science skills are increasingly important for research and industry project
 
 In this workshop we will focus on ggplot2, a library for R that creates clear and well-designed visualizations and that plays well with other tidyverse packages.
 
+### <i class="fas fa-code" style="color:#0E3A53"></i> Presenting Data Science Results to Stakeholders
+
+by Angela Zoss
+
+|                                     |             |
+| ------------------------------------|-------------|
+| <i class="fas fa-user-plus"></i>    | &nbsp; [Sign up](https://duke.libcal.com/event/5184110) |
+| <i class="fas fa-calendar-alt"></i> | &nbsp; 03/26/2019  |
+| <i class="fas fa-clock"></i>        | &nbsp; 6 - 8pm     |
+| <i class="fas fa-map-marker"></i>   | &nbsp; Bostock 127 (The Edge Workshop Room) |
+
+Communicating with stakeholders is a core process in any data science project. For most projects, stakeholder communication happens regularly to ensure that the analysis and outputs are structured to meet stakeholder needs. For some groups of stakeholders, however, the only ability to interact will be in a final presentation. This presentation will focus on strategies for developing a short presentation that summarizes a data science project, including: identifying a compelling story in the analysis; leading with the key takeaways; and presenting results simply, effectively, and visually.
+
+Note: This is not a hands-on workshop. No computers are required.
+
+
 ### <i class="fas fa-code" style="color:#0E3A53"></i> Intro to Tableau - Easy Charts and Maps
 
 by Eric Monson
