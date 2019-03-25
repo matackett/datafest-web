@@ -59,7 +59,7 @@ by Eric Monson
 
 |                                     |             |
 | ------------------------------------|-------------|
-| <i class="fas fa-user-plus"></i>    | &nbsp; [Sign up](https://duke.libcal.com/event/4037868) |
+| <i class="fas fa-user-plus"></i>    | &nbsp; [Sign up](https://duke.libcal.com/event/5093961) |
 | <i class="fas fa-calendar-alt"></i> | &nbsp; 04/02/2019  |
 | <i class="fas fa-clock"></i>        | &nbsp; 6 - 8pm     |
 | <i class="fas fa-map-marker"></i>   | &nbsp; Bostock 127 (The Edge Workshop Room) |
