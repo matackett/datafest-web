@@ -3,7 +3,7 @@ title: "Sponsors"
 markup: "mmark"
 ---
 
-A huge thanks to our 2018 sponsors, ASA DataFest<small><sup>TM</sup></small> at Duke cannot run without your support!
+A huge thanks to our 2019 sponsors, ASA DataFest<small><sup>TM</sup></small> at Duke cannot run without your support!
 
 Considering sponsoring ASA DataFest<small><sup>TM</sup></small> at Duke? Click [here](/sponsorship) for more information.
 
@@ -11,21 +11,9 @@ Considering sponsoring ASA DataFest<small><sup>TM</sup></small> at Duke? Click [
 
 ## Cauchy Sponsors
 
-<img style="width:320px;float: left;padding-right:20px" src="/logos/sofc.png">
-
-The [Student Organization Finance Committee (SOFC)](http://www.dukestudentgovernment.org/sofc) is the primary group on campus responsible for the recognition and funding of student groups. SOFC continuously works on making obtaining funding more convenient for student groups. 
-
-<br><br>
-
-<img style="width:320px;float: left;padding-right:20px" src="/logos/microsoft.png">
-
-Empower every person and every organization on this planet to achieve more. See [microsoft.com](https://www.microsoft.com/en-us/) for more.
-
-<br><br><br>
-
 <img style="width:320px;float: left;padding-right:20px" src="/logos/iid.png">
 
-At [iiD](http://bigdata.duke.edu/) is all about Making Data Matter.
+[iiD](http://bigdata.duke.edu/) is all about Making Data Matter.
 
 <br><br><br><br><br>
 
@@ -41,19 +29,29 @@ At [iiD](http://bigdata.duke.edu/) is all about Making Data Matter.
 
 [2nd Order Solutions](http://secondordersolutions.com) is a credit risk consultancy focused on creating value for financial services clients through ground-breaking analytic and modeling problem solving. We are committed to improving financial and risk results by partnering with clients to create winning strategies and sustainable competitive advantage.
 
+<br><br><br><br><br>
+<img style="width:320px;float: left;padding-right:20px" src="/logos/wake.jpeg">
+
+The [Department of Mathematics at Wake Forest](http://college.wfu.edu/math/) is a proud sponsor of DataFest and increasingly emphasizes statistics education and big data.
+
+<br><br><br><br><br>
+<img style="width:320px;float: left;padding-right:20px" src="/logos/bass.jpg">
+
+[Bass Connections](https://bassconnections.duke.edu/) bridges the classroom and the real world, giving students a chance to roll up their sleeves and tackle complex societal problems alongside faculty from across Duke. Working in interdisciplinary teams, graduate and undergraduate students collaborate with faculty on cutting-edge research that spans subjects, demographic groups and borders. Bass Connections builds on Duke’s culture of collaboration and fosters knowledge in service to society.
+
 <br><br>
 
 ## Lognormal Sponsors
 
-<img style="width:320px;float: left;padding-right:20px" src="/logos/rti.png">
+<img style="width:320px;float:left;padding-right:20px" src="/logos/duketrinity.png">
 
-[RTI International](http://www.rti.org) is an independent, nonprofit research institute dedicated to improving the human condition. Clients rely on us to answer questions that demand an objective and multidisciplinary approach—one that integrates expertise across the social and laboratory sciences, engineering, and international development. We believe in the promise of science, and we are inspired every day to deliver on that promise for the good of people, communities, and businesses around the world. For more information, visit [www.rti.org](http://www.rti.org).  
+Trinity College of Arts & Sciences awards nearly 80 percent of undergraduate degrees at Duke, and nearly 40 percent of all graduate degrees in disciplines across the arts, humanities, natural sciences and social sciences. We offer bachelor of arts and bachelor science programs; master of arts, master of fine arts and master of science programs; doctoral programs; and specialized certificate programs for both undergraduate and graduate students.
 
 <br><br><br>
 
-<img style="width:320px;float: left;padding-right:20px" src="/logos/vfs.png">
+<img style="width:320px;float:left;padding-right:20px" src="/logos/jmp.png">
 
-Volvo Financial Services is the global financial solutions provider of the Volvo Group, supporting the Volvo Group brands with expert financial services. This includes providing customers and dealers with a full-range of offerings, such as financing, leasing, and insurance solutions. Our team of about 1,400 professionals are located in 45 countries worldwide. As a part of the Volvo Financial Services team, you will experience challenging assignments, gain international exposure, and interact with colleagues around the world in the Volvo Group.
+JMP (pronounced "jump") is a business unit of SAS that produces interactive software for desktop statistical discovery. John Sall, SAS co-founder and Executive Vice President, created this dynamic software in 1989 and remains its chief architect and leader of the JMP division. Developed with scientists and engineers in mind, JMP has grown into a family of statistical discovery tools tailored to meet specific needs and used worldwide in almost every industry. By combining interactive data analysis with visualization, JMP accelerates the path to useful insights and meaningful discoveries. Find out more at [jmp.com](http://www.jmp.com).
 
 <br><br><br>
 
@@ -75,19 +73,13 @@ The [Department of Statistics at NC State](https://www.stat.ncsu.edu/information
 
 <br><br>
 
-## Weibull Sponsors
-
-<img style="width:320px;float:left;padding-right:20px" src="/logos/duketrinity.png">
-
-Trinity College of Arts & Sciences awards nearly 80 percent of undergraduate degrees at Duke, and nearly 40 percent of all graduate degrees in disciplines across the arts, humanities, natural sciences and social sciences. We offer bachelor of arts and bachelor science programs; master of arts, master of fine arts and master of science programs; doctoral programs; and specialized certificate programs for both undergraduate and graduate students.
-
-<br><br><br>
-
 <img style="width:320px;float:left;padding-right:20px" src="/logos/memp.png">
 
 With a core management curriculum and a wide variety of technical electives, [Duke's Master of Engineering Management (MEM) Program](http://memp.pratt.duke.edu/) offers early-career engineers a tech-savvy alternative to an MBA. Offered by the Pratt School of Engineering with the support of Duke’s Fuqua School of Business and the Duke School of Law, the MEM program prepares engineering and science graduates to become future industry leaders.
 
 <br><br><br><br>
+
+## Weibull Sponsors
 
 <img style="width:320px;float: left;padding-right:20px" src="/logos/rstudio.png">
 
@@ -95,24 +87,12 @@ The technology to amass data exceeds our abilities to make use of it. People all
 
 <br><br>
 
-<img style="width:320px;float:left;padding-right:20px" src="/logos/jmp.png">
-
-JMP (pronounced "jump") is a business unit of SAS that produces interactive software for desktop statistical discovery. John Sall, SAS co-founder and Executive Vice President, created this dynamic software in 1989 and remains its chief architect and leader of the JMP division. Developed with scientists and engineers in mind, JMP has grown into a family of statistical discovery tools tailored to meet specific needs and used worldwide in almost every industry. By combining interactive data analysis with visualization, JMP accelerates the path to useful insights and meaningful discoveries. Find out more at [jmp.com](http://www.jmp.com).
-
-
-<br><br><br><br><br><br><br>
-
-<img style="width:320px;float:left;padding-right:20px" src="/logos/innovationcolab.png">
-
-The [Innovation Co-Lab](https://colab.duke.edu/) is a creativity incubator, focused on exploring how new and emerging technologies can fundamentally reshape the research, academic, and service missions of the university. Working with innovation-minded colleagues around campus, they're building a model program that will elevate and inspire Duke students who are solving problems, big and small, through our ever-changing technological environment. Duke students of all backgrounds, interests, and skill-sets are encouraged to participate.
-
-<br><br>
-
 ## Acknowledgements
+<img style="width:320px;float: left;padding-right:20px" src="/logos/moonlight.jpeg">
 
-<img style="width:320px;float: left;padding-right:20px" src="/logos/datacamp.png">
+[Moonlight Developments](https://www.moonlightdevelopments.com/) is a web development company located in the beautiful and rapidly developing region of Northwest Arkansas.  The objective of the company is to utilize experiences and various development platforms to deliver a well-informed and comprehensive content experience to our customers and to the end user.
 
-Everyday, massive amounts of data are generated in every part of our lives. That makes data fluency an indispensable skill to help you succeed - no matter what industry you’re in. At [DataCamp](https://www.datacamp.com/), we’re here to help, whether you're just getting started or are looking to dig deeper. DataCamp is offering a 1 month free membership to all ASA DataFest<small><sup>TM</sup></small> participants.
+
 
 <br><br><br>
 
