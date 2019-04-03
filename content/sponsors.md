@@ -29,17 +29,12 @@ Considering sponsoring ASA DataFest<small><sup>TM</sup></small> at Duke? Click [
 
 [2nd Order Solutions](http://secondordersolutions.com) is a credit risk consultancy focused on creating value for financial services clients through ground-breaking analytic and modeling problem solving. We are committed to improving financial and risk results by partnering with clients to create winning strategies and sustainable competitive advantage.
 
-<br><br><br><br><br>
-<img style="width:320px;float: left;padding-right:20px" src="/logos/wake.jpeg">
-
-The [Department of Mathematics at Wake Forest](http://college.wfu.edu/math/) is a proud sponsor of DataFest and increasingly emphasizes statistics education and big data.
-
-<br><br><br><br><br>
+<br><br><br>
 <img style="width:320px;float: left;padding-right:20px" src="/logos/bass.jpg">
 
 [Bass Connections](https://bassconnections.duke.edu/) bridges the classroom and the real world, giving students a chance to roll up their sleeves and tackle complex societal problems alongside faculty from across Duke. Working in interdisciplinary teams, graduate and undergraduate students collaborate with faculty on cutting-edge research that spans subjects, demographic groups and borders. Bass Connections builds on Duke’s culture of collaboration and fosters knowledge in service to society.
 
-<br><br>
+<br><br><br><br><br><br>
 
 ## Lognormal Sponsors
 
@@ -71,7 +66,12 @@ The [Department of Statistics at NC State](https://www.stat.ncsu.edu/information
 
 [The Department of Statistics and Operations Research](https://stat-or.unc.edu/) specializes in inference, decision-making, and data analysis involving complex models and systems exhibiting both deterministic and random behavior.  We focus on developing and analyzing the necessary quantitative and computational tools to enable practitioners to solve problems in statistical and probabilistic analysis, modeling, optimization, and the evaluation of system performance.
 
-<br><br>
+<br><br><br><br>
+<img style="width:320px;float: left;padding-right:20px" src="/logos/wake.jpeg">
+
+The [Department of Mathematics and Statistics](http://college.wfu.edu/math/) at Wake Forest supports programs in mathematics, statistics, and applied mathematics, along with interdisciplinary majors.  The statistics program focuses on developing students with a strong core in the mathematical foundations of statistics, engaging students in applied, interdisciplinary projects using statistical computing, and offering mentored undergraduate and master's level research experiences.
+
+<br><br><br><br><br><br>
 
 <img style="width:320px;float:left;padding-right:20px" src="/logos/memp.png">
 
