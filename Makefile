@@ -7,7 +7,7 @@ REMOTE ?= $(REMOTEUSER)@$(HOST):$(DIR)
 clean:
 	rm -rf docs/*
 
-push:
+push: 
 	cp favicon.ico docs/
 	cp background.jpg docs/
 	rsync -azv --delete  --exclude='.DS_Store'  docs/ $(REMOTE)
