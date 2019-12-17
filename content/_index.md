@@ -4,6 +4,10 @@ description: "April 5-7, 2019 at Penn Pavillion"
 markup: "mmark"
 ---
 
+### SAVE THE DATE, DATAFEST 2020!
+
+Adding new information. And testing it out! 
+
 ## ASA DataFest 2019 at Duke
 
 ASA DataFest 2019 will take place at Duke over the April 5-7 weekend. More details on the event are below, and you can read about last year's challenge and  winners [here](/df2018/).
