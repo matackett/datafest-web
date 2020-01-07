@@ -1,6 +1,6 @@
 ---
-title: "Duke DataFest 2019"
-description: "April 5-7, 2019 at Penn Pavillion"
+title: "Duke DataFest 2020"
+description: "April 3-5, 2020 at Penn Pavillion"
 markup: "mmark"
 ---
 
@@ -10,11 +10,11 @@ Adding new information. And testing it out!
 
 ## ASA DataFest 2019 at Duke
 
-ASA DataFest 2019 will take place at Duke over the April 5-7 weekend. More details on the event are below, and you can read about last year's challenge and  winners [here](/df2018/).
+ASA DataFest 2020 will take place at Duke over the April 3-5 weekend. More details on the event are below, and you can read about last year's challenge and  winners [here](/df2018/).
 
 ## Event details
 
-**When:** Friday, April 5 at 6pm - Sunday, April 7 at 5pm <br>
+**When:** Friday, April 3 at 6pm - Sunday, April 7 at 5pm <br>
 **Where:** [Penn Pavillion](http://maps.duke.edu/map/?id=21#!s/key=penn pavillion?m/236261), Duke University
 
 On Friday we will start with a reception where your surprise client will give a brief introduction to the data you will be working with over the weekend and tell you a bit about what they would like to get out of it. The data will likely be much more complex than what you are used to seeing in your classes, and you will be given free reign to analyze it however you like. In other words, you will come up with a research question that is of interest to you, and conduct the appropriate analysis to answer your question. But you are welcomed, and encouraged, to take cues from the client's introduction when shaping your research question(s).

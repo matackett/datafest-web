@@ -3,6 +3,11 @@ title: "Schedule"
 markup: "mmark"
 ---
 
+Full schedule coming soon! 
+
+Expect to block out Friday evening (April 3rd), all of Saturday (April 4th), and Sunday morning until late afternoon (April 5th).
+
+<!--
 ### Friday, April 5, 2019
 
 **Welcome!**
@@ -42,3 +47,4 @@ Consultants available for help until midnight, you can work as late as you like.
 - 4:30-5pm - Award ceremony - Penn Pavillion
 
 Consultants available for help until 1pm.
+__>
